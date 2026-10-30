@@ -66,15 +66,6 @@ Area | Tools & Technologies
 **Learning** | TryHackMe, HackTheBox, OWASP
 ---
 
-## `> featured_projects`
-Project | Description
-[Security Automation](https://github.com/EH-Mohamed) | Python & Bash scripts for recon, header analysis and log parsing.
-[Linux Hardening Toolkit](https://github.com/EH-Mohamed) | Utilities for Linux administration and system hardening.
-[Web Security Notes](https://github.com/EH-Mohamed) | My personal notes on OWASP, headers, and secure configs.
-> بدل الروابط ب repo حقيقية ديالك من بعد
-
----
-
 ## `> development_environment`
 OS          : Kali / Ubuntu
 Shell       : Zsh + Tmux
