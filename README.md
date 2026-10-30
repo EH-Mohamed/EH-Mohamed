@@ -17,7 +17,8 @@
 │  User      : EH-Mohamed                                     │
 │  Role      : Developer / Builder                            │
 │  Status    : Online                                          │
-│  Focus     : Backend · Automation · Linux · Security         │
+│  Focus     : Backend · Automation · Linux · Security │
+|           <<<<<< SYBER SECURIY >>>>>>>>
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -129,7 +130,7 @@ Workflow    : Build → Test → Improve
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EH-Mohamed)
 
 <!-- Add your real links below -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mohamed-elharrims-401704436?utm_source=share_via&utm_content=profile&utm_medium=member_android)) 
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto: mohamedelharrims@gmail.com)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00AEEF?style=flat-square&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL) -->
 
