@@ -12,22 +12,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-EH--Mohamed-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EH-Mohamed)
 [![Profile Views](https://komarev.com/ghpvc/?username=EH-Mohamed&style=for-the-badge&color=00ff88)](https://github.com/EH-Mohamed)
 
-┌──────────────────────────────────────────────────────────────┐
-│  ACCESS GRANTED                                             │
-│  User      : EH-Mohamed                                     │
-│  Role      : Cyber Security | Backend Builder               │
-│  Status    : Online                                          │
-│  Focus     : Web Security · Linux · Automation              │
-│  Location  : FSBM - Casablanca, MA                          │
-│           <<<<<< CYBER SECURITY >>>>>>>>                     │
-└──────────────────────────────────────────────────────────────┘
-</div>
-
----
-
-
-## `> connect`
-
 <div align="center">
 
 [[GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EH-Mohamed)
